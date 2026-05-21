@@ -1,6 +1,6 @@
 # Airbnb Market Insights — Miami
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/data/Dashboard_1.png)
 
 ## Business Problem
 
